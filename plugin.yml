@@ -2,4 +2,4 @@ name: Skillplugin
 main: com.wayne.skillplugin
 version: 0.0.1
 author: WaynePN
-depend: [MCCore]
+depend: [SkillAPI]
